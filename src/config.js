@@ -4,6 +4,9 @@ import { Icon } from "@iconify/react";
 // Navbar Logo image (add your image to the src/images directory and uncomment the line below to import your image)
 // import newLogo from "./images/yourFileName"
 
+import newLogo from "./images/purdue.png";
+
+
 // Hero Images (add your images to the /images directory with the same names)
 import HeroLight from "./images/hero-light.jpg";
 import HeroDark from "./images/hero-dark.jpg";
@@ -11,14 +14,15 @@ import HeroDark from "./images/hero-dark.jpg";
 // Projects Images (add your images to the images directory and import below)
 import Logo from "./images/logo.svg";
 
+
 /* START HERE
  **************************************************************
   Add your GitHub username (string - "YourUsername") below.
 */
-export const githubUsername = "Your GitHub username here";
+export const githubUsername = "rnalla03";
 
 // Navbar Logo image
-export const navLogo = null;
+export const navLogo = newLogo;
 
 /* Main
  ************************************************************** 
@@ -35,7 +39,7 @@ export { HeroDark as Dark };
   Add a second paragraph for the about me section.
 */
 export const moreInfo =
-  "I enjoy learning about technology and helping others use it to improve their lives and be more productive. I built this site with React, React Bootstrap, Redux, and the GitHub REST API.";
+  "Hi! My name is Rohan and I'm a student at Purdue interested in the fields of software engineering, machine learning, and quantitative finance";
 
 /* Skills
  ************************************************************** 
@@ -102,7 +106,7 @@ export const filteredProjects = ["example-1", "example-2", "example-3"];
 export const projectCardImages = [
   {
     name: "example-1",
-    image: Logo,
+    image: Logo
   },
 ];
 
@@ -111,7 +115,7 @@ export const projectCardImages = [
   Add your formspree endpoint below.
   https://formspree.io/
 */
-export const formspreeUrl = "https://formspree.io/f/YourEndpoint";
+export const formspreeUrl = "https://formspree.io/f/xanwybjj";
 
 // Footer icons theme (light or dark)
 export const footerTheme = "dark";

@@ -7,11 +7,15 @@ import PropTypes from "prop-types";
 import { Element } from "react-scroll";
 import { Col, Container, Row } from "react-bootstrap";
 import Title from "./Title";
+import newLogo from "../images/profile4.jpeg";
+
+
+
 
 // #region styled-components
 const StyledAboutMe = styled.section`
   p {
-    font-size: 1.25rem;
+    font-size: 2rem;
   }
   .img {
     width: 18rem;
@@ -44,11 +48,11 @@ const AboutMe = ({ avatar_url, bio, moreInfo }) => {
             </Col>
             <Col className="d-none d-md-block text-center">
               <img
-                src={avatar_url}
+                src={newLogo}
                 alt="GitHub Avatar"
                 loading="lazy"
                 className="mx-auto rounded-circle border border-primary-subtle"
-                style={{ width: "15rem", height: "15rem" }}
+                style={{ width: "20rem", height: "20rem" }}
               />
             </Col>
           </Row>
