@@ -39,7 +39,7 @@ export { HeroDark as Dark };
   Add a second paragraph for the about me section.
 */
 export const moreInfo =
-  "Hi! My name is Rohan and I'm a student at Purdue interested in the fields of software engineering, machine learning, and quantitative finance";
+  "Hi! My name is Rohan and I am a student at Purdue interested in the fields of software engineering, machine learning, and quantitative finance";
 
 /* Skills
  ************************************************************** 
