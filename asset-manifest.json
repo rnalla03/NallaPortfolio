@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/NallaPortfolio/static/css/main.372dc58a.css",
-    "main.js": "/NallaPortfolio/static/js/main.29329d5a.js",
+    "main.js": "/NallaPortfolio/static/js/main.39ddb429.js",
     "static/media/profile4.jpeg": "/NallaPortfolio/static/media/profile4.cc17dee6af6bbd5d269e.jpeg",
     "static/media/hero-dark.jpg": "/NallaPortfolio/static/media/hero-dark.37f2556d620821979e99.jpg",
     "static/media/hero-light.jpg": "/NallaPortfolio/static/media/hero-light.78b77836d8aee4d7d3cb.jpg",
@@ -11,10 +11,10 @@
     "static/media/logo.svg": "/NallaPortfolio/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/NallaPortfolio/index.html",
     "main.372dc58a.css.map": "/NallaPortfolio/static/css/main.372dc58a.css.map",
-    "main.29329d5a.js.map": "/NallaPortfolio/static/js/main.29329d5a.js.map"
+    "main.39ddb429.js.map": "/NallaPortfolio/static/js/main.39ddb429.js.map"
   },
   "entrypoints": [
     "static/css/main.372dc58a.css",
-    "static/js/main.29329d5a.js"
+    "static/js/main.39ddb429.js"
   ]
 }
